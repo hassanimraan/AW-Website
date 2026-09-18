@@ -1,0 +1,49 @@
+[
+    {
+        "id": "project-001",
+        "name": "Sample Commercial Solar Project",
+        "client": "[CLIENT NAME]",
+        "location": "Lahore, Pakistan",
+        "capacity": "100 kW",
+        "category": "Commercial",
+        "systemType": "On-Grid",
+        "description": "Sample project entry. Replace this information with actual project details.",
+        "featured": true,
+        "published": true,
+        "images": [
+            "images/projects/project-001/image-01.jpg"
+        ]
+    },
+
+    {
+        "id": "project-002",
+        "name": "Sample Industrial Solar Project",
+        "client": "[CLIENT NAME]",
+        "location": "Lahore, Pakistan",
+        "capacity": "250 kW",
+        "category": "Industrial",
+        "systemType": "On-Grid",
+        "description": "Sample project entry. Replace this information with actual project details.",
+        "featured": false,
+        "published": true,
+        "images": [
+            "images/projects/project-002/image-01.jpg"
+        ]
+    },
+
+    {
+        "id": "project-003",
+        "name": "Sample Residential Solar Project",
+        "client": "[CLIENT NAME]",
+        "location": "Lahore, Pakistan",
+        "capacity": "15 kW",
+        "category": "Residential",
+        "systemType": "On-Grid",
+        "description": "Sample project entry. Replace this information with actual project details.",
+        "featured": false,
+        "published": true,
+        "images": [
+            "images/projects/project-003/image-01.jpg"
+        ]
+    }
+]

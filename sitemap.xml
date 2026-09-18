@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+>
+
+    <url>
+        <loc>https://awtechnologies.pk/</loc>
+    </url>
+
+    <url>
+        <loc>https://awtechnologies.pk/about.html</loc>
+    </url>
+
+    <url>
+        <loc>https://awtechnologies.pk/services.html</loc>
+    </url>
+
+    <url>
+        <loc>https://awtechnologies.pk/solar-solutions.html</loc>
+    </url>
+
+    <url>
+        <loc>https://awtechnologies.pk/projects.html</loc>
+    </url>
+
+    <url>
+        <loc>https://awtechnologies.pk/project-details.html</loc>
+    </url>
+
+    <url>
+        <loc>https://awtechnologies.pk/contact.html</loc>
+    </url>
+
+</urlset>
